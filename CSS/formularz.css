@@ -1,0 +1,46 @@
+form {
+    font-weight: bold;
+}
+
+form input {
+    background: #F5F5F5;
+    border-color: #cccdd1;
+    border-radius: 7px;
+    color: #2F4F4F;
+    margin: 1% 0 0 1%;
+    
+    border:3px solid transparent;
+    border-bottom:3px solid #000;
+    padding:2%;
+    box-sizing:border-box;
+    font-family:"Open Sans",sans-serif;
+    font-size:.8em;
+}
+
+.button {
+    background-color: #cccdd1;
+    font-size: 15px;
+    color: black;
+    padding: 10px 10px;
+    border:none;
+    border-radius:5px;
+    cursor: pointer;
+    margin-top: 20px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.select {
+    background: #F5F5F5;
+    border-color: #cccdd1;
+    border-radius: 7px;
+    color: #2F4F4F;
+    margin: 1% 0 0 1%;
+    
+    border:3px solid transparent;
+    border-bottom:3px solid #000;
+    padding:2%;
+    box-sizing:border-box;
+    font-family:"Open Sans",sans-serif;
+    font-size:.8em;
+}

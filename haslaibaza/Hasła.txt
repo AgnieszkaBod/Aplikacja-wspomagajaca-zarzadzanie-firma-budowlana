@@ -1,0 +1,11 @@
+login admina: admin
+hasło admina: admin123
+
+login pracownika: janKow
+hasło pracownika: 12345678
+
+login brygadzisty: adamNow
+hasło brygadzisty: 12345678
+
+login prezesa: prezes
+hasło prezesa: 12345678
